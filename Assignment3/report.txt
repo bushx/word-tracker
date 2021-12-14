@@ -1,0 +1,45 @@
+Word: a / Frequency: 1
+File name: test1.txt - Line No: 3
+Word: banana / Frequency: 2
+File name: test3.txt - Line No: 1
+File name: test3.txt - Line No: 1
+Word: beautiful / Frequency: 1
+File name: test1.txt - Line No: 3
+Word: c# / Frequency: 2
+File name: test3.txt - Line No: 3
+File name: test3.txt - Line No: 3
+Word: day / Frequency: 1
+File name: test1.txt - Line No: 3
+Word: eun-ji / Frequency: 1
+File name: test2.txt - Line No: 4
+Word: everyone / Frequency: 1
+File name: test2.txt - Line No: 2
+Word: from / Frequency: 2
+File name: test3.txt - Line No: 3
+File name: test3.txt - Line No: 3
+Word: hi / Frequency: 2
+File name: test1.txt - Line No: 1
+File name: test2.txt - Line No: 1
+Word: i / Frequency: 1
+File name: test1.txt - Line No: 2
+Word: i'm / Frequency: 1
+File name: test2.txt - Line No: 3
+Word: like / Frequency: 2
+File name: test3.txt - Line No: 1
+File name: test3.txt - Line No: 1
+Word: looks / Frequency: 2
+File name: test3.txt - Line No: 1
+File name: test3.txt - Line No: 1
+Word: or / Frequency: 2
+File name: test3.txt - Line No: 2
+File name: test3.txt - Line No: 2
+Word: told / Frequency: 1
+File name: test1.txt - Line No: 2
+Word: what / Frequency: 1
+File name: test1.txt - Line No: 3
+Word: you / Frequency: 2
+File name: test1.txt - Line No: 2
+File name: test2.txt - Line No: 5
+Word: zucchini / Frequency: 2
+File name: test3.txt - Line No: 2
+File name: test3.txt - Line No: 2
